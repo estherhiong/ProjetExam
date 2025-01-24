@@ -17,81 +17,89 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InstaApplication
 build_property.RootNamespace = InstaApplication
-build_property.ProjectDir = C:\Users\Master\Desktop\InstaApplication\InstaApplication\
+build_property.ProjectDir = C:\Users\Master\Source\Repos\ProjetExam\InstaApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Master\Desktop\InstaApplication\InstaApplication
+build_property.MSBuildProjectDirectory = C:\Users\Master\Source\Repos\ProjetExam\InstaApplication
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Client/Create.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Authentification/Connexion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGlmaWNhdGlvblxDb25uZXhpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Authentification/Inscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGlmaWNhdGlvblxJbnNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Client/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Client/Delete.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Client/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Client/Details.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Client/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Client/Edit.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Client/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Client/Index.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Client/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Home/Index.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Home/Privacy.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Produits/Create.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Produits/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Produits/Delete.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Produits/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Produits/Details.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Produits/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Produits/Edit.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Produits/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Produits/Index.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Produits/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Shared/Error.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/_ViewImports.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/_ViewStart.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Master/Desktop/InstaApplication/InstaApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/Master/Source/Repos/ProjetExam/InstaApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1g515n9sp9

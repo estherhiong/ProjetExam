@@ -17,6 +17,8 @@ namespace InstaApplication.Models
         public DbSet<Client> Clients { get; set; }
 
         public DbSet<Produits> Product { get; set; }
+        public DbSet<InstaApplication.Models.Connexion> Connexion { get; set; } = default!;
+        public DbSet<InstaApplication.Models.Inscription> Inscription { get; set; } = default!;
 
 
 

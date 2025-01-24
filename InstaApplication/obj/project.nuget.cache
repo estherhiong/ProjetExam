@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/BTYKNNctos=",
+  "dgSpecHash": "sDzDP1w2DsU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\InstaApplication.csproj",
+  "projectFilePath": "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\InstaApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Master\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

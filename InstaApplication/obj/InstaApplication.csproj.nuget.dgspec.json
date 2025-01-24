@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\InstaApplication.csproj": {}
+    "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\InstaApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\InstaApplication.csproj": {
+    "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\InstaApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\InstaApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\InstaApplication.csproj",
         "projectName": "InstaApplication",
-        "projectPath": "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\InstaApplication.csproj",
+        "projectPath": "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\InstaApplication.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\InstaApplication\\InstaApplication\\obj\\",
+        "outputPath": "C:\\Users\\Master\\Source\\Repos\\ProjetExam\\InstaApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
